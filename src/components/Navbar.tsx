@@ -11,7 +11,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="text-xl font-bold">
-              CryptoTracker
+              CryptoDash
             </Link>
             <div className="hidden md:block ml-10">
               <div className="flex items-baseline space-x-4">
