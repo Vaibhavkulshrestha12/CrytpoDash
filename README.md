@@ -9,7 +9,7 @@ CryptoTracker is a web application built using TypeScript, Tailwind CSS, and Vit
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/CryptoTracker.git
+git clone https://github.com/Vaibhavkulshrestha12/CrytpoDash.git
 cd CryptoTracker
 ```
 
